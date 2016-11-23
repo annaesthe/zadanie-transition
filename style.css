@@ -8,6 +8,7 @@ div#nagłówek {
     padding-bottom: 5px;
 }
 
+
 div#nagłówek:hover {
     background: #ff7900;
     -webkit-transition: background 3s ease-in;
@@ -29,6 +30,5 @@ h1:hover {
     -webkit-transition: color 3s ease-in, font-size 2s ease-in;
     -moz-transition: color 3s ease-in, font-size 2s ease-in;
     -o-transition: color 3s ease-in, font-size 2s ease-in;
-    transition: color 3s ease-in, font-size 2s ease-in;
-    
+    transition: color 3s ease-in, font-size 2s ease-in; 
 }
